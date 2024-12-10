@@ -20,7 +20,7 @@
     "d3-fetch": "^1.1.2",
     "d3-scale-chromatic": "^1.5.0",
     "immer": "^6.0.2",
-    "libp2p": "^0.27.5",
+    "libp2p": "^0.38.0",
     "libp2p-bootstrap": "^0.10.4",
     "libp2p-crypto": "^0.17.6",
     "libp2p-mplex": "^0.9.5",
