@@ -19,7 +19,7 @@
     "cids": "^0.8.0",
     "d3-fetch": "^1.1.2",
     "d3-scale-chromatic": "^1.5.0",
-    "immer": "^6.0.2",
+    "immer": "^9.0.6",
     "libp2p": "^0.27.5",
     "libp2p-bootstrap": "^0.10.4",
     "libp2p-crypto": "^0.17.6",
